@@ -5,7 +5,7 @@ Author: ACE Department
 Edited By: Harshdeep Singh Virk 
 Date: 08/11/2023
 Usage: The enumerations and list in this file may be used when working 
-with mortgages to ensure only valid rates, frequencies and amortization 
+with mortgages to ensure only valid rates, Frequencies and Amortization 
 periods are used.
 """
 
