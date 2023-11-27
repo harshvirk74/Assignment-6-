@@ -4,12 +4,11 @@
 Using classes and enums to determine mortgage payment options for clients.
 
 ## Author
-[Your name]
+Harshdeep Singh Virk 
 
 ## Assignment
-Assignment 6: Defining and using classes.
-Created Enum
-Created Class
-Created Unit Test Class
-Updated Client program
-{this should be more detailed.}
+Assignment 6:The process involved the establishment and utilization of classes. 
+An Enum, named pixell_lookup.py, was developed to handle mortgage rates and payment frequencies. 
+A class, mortgage.py, was created to embody a mortgage with specific details and to compute payments. 
+A Unit Test Class, test_mortgage.py, was put into place to verify the functionality of the Mortgage class. 
+Lastly, the client program, main.py, was updated to make use of the newly created Enum and Class.
